@@ -150,7 +150,7 @@ body {
   .masthead,
   .mastfoot,
   .cover-container {
-    width: 42rem;
+    width: 60rem;
   }
 }
 
@@ -165,12 +165,13 @@ body {
 }
 
 .title {
-  font-size: 6.5em;
+  font-size: 8.0em;
   line-height: 0.92;
 }
 
 .discription {
-  font-size: 1.5em;
+  font-size: 2.0em !important;
+  line-height: 1.4;
 }
 
 .copyright {
